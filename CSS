@@ -1,1 +1,11 @@
-
+/* Home Page */
+/********** Medium devices only **********/ 
+@media (min-width: 992px) and (max-width: 1199px) {
+-}
+-/**********Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+}
+/********** Extra Small devices only **********/ 
+@media (max-width: 767px) {
+-}
+ /* End Home Page */
