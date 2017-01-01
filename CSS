@@ -24,7 +24,7 @@ width:100%;
 @media (min-width: 992px) and (max-width: 1199px) {
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6,
 .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12{
-float:right;
+float:left;
 border: 1px solid green;
 }
 .col-md-1{
@@ -68,7 +68,7 @@ width:100%
 @media (min-width: 768px) and (max-width: 991px) {
 col-sd-1, .col-sd-2, .col-sd-3, .col-sd-4, .col-sd-5, .col-sd-6,
 .col-sd-7, .col-sd-8, .col-sd-9, .col-sd-10, .col-sd-11, .col-sd-12{
-float:right;
+float:left;
 border: 1px solid red;
 }
 .col-sd-1{
@@ -112,7 +112,7 @@ width:100%
 @media (max-width: 767px) {
 col-esd-1, .col-esd-2, .col-esd-3, .col-esd-4, .col-esd-5, .col-esd-6,
 .col-esd-7, .col-esd-8, .col-esd-9, .col-esd-10, .col-esd-11, .col-esd-12{
-float:right;
+float:left;
 border: 1px solid blue;
 }
 .col-esd-1{
